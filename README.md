@@ -39,6 +39,8 @@ Collection of useful tools/apps either written by me or others
 
 [Splunk on Docker](https://github.com/splunk/docker-splunk) -  The official Splunk repository of Dockerfiles for building Splunk Enterprise and Splunk Universal Forwarder images for containerized deployments.
 
+[VIM Syntax Highlighting](https://github.com/yorokobi/vim-splunk) - Syntax highlighting for Splunk's .conf files
+
 
 ## SDKs 
 
