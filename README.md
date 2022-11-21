@@ -7,6 +7,7 @@ Collection of useful tools/apps either written by me or others
 
 ## Splunk Searches and Dashboards 
 [Useful list of Splunk Searches](https://github.com/johnciavarella/splunk-searches) - A collection of useful Splunk searches. Includes REST and internal introspection searches 
+
 [Data Dictionary](https://github.com/johnciavarella/splunk-data-dictionary) - Data Dictionary, data explorer and useful "Splunk on Splunk" tool for admins and beginners alike! 
 
 ## Splunk TAs (Unlisted on Splunkbase)
