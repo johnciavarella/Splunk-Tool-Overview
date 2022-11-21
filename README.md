@@ -11,7 +11,7 @@ Collection of useful tools/apps either written by me or others
 [Data Dictionary](https://github.com/johnciavarella/splunk-data-dictionary) - Data Dictionary, data explorer and useful "Splunk on Splunk" tool for admins and beginners alike! 
 
 ## Splunk TAs (Unlisted on Splunkbase)
-[Silverpeak SDWan](https://github.com/johnciavarella/TA_Silverpeak_SDWAN) - [TA for Silver Peak - SDWan Technology](https://www.silver-peak.com/)
+[Silverpeak SDWan](https://github.com/johnciavarella/TA_Silverpeak_SDWAN) - TA for Silver Peak - [SDWan Technology](https://www.silver-peak.com/)
 
 
 # External 
