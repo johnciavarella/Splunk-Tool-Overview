@@ -5,6 +5,8 @@ Collection of useful tools/apps either written by me or others
 ## Administration Tools
 [Splunk Install Script](https://github.com/johnciavarella/splunk_install) - Bash install splunk script for linux
 
+[Use same Splunk Secret between server](https://hurricanelabs.com/splunk-tutorials/update-splunk-secret-without-breaking-your-production-environment/) - The ability to use the same Secret between all of your Splunk servers so you can rsync/copy encrypted passwords between servers. Useful if doing DR servers with copy of conf files.
+
 ## Splunk Searches and Dashboards
 [Useful list of Splunk Searches](https://github.com/johnciavarella/splunk-searches) - A collection of useful Splunk searches. Includes REST and internal introspection searches
 
@@ -13,7 +15,6 @@ Collection of useful tools/apps either written by me or others
 ## Splunk TAs (Unlisted on Splunkbase)
 [Silverpeak SDWan](https://github.com/johnciavarella/TA_Silverpeak_SDWAN) - TA for Silver Peak - [SDWan Technology](https://www.silver-peak.com/)
 
-[Use same Splunk Secret between server](https://hurricanelabs.com/splunk-tutorials/update-splunk-secret-without-breaking-your-production-environment/) - The ability to use the same Secret between all of your Splunk servers so you can rsync/copy encrypted passwords between servers. Useful if doing DR servers with copy of conf files.
 
 # External
 
