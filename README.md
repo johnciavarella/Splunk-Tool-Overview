@@ -13,12 +13,11 @@ Collection of useful tools/apps either written by me or others
 ## Splunk TAs (Unlisted on Splunkbase)
 [Silverpeak SDWan](https://github.com/johnciavarella/TA_Silverpeak_SDWAN) - TA for Silver Peak - [SDWan Technology](https://www.silver-peak.com/)
 
-## Use same Splunk Secret between server
-[Blog Post](https://hurricanelabs.com/splunk-tutorials/update-splunk-secret-without-breaking-your-production-environment/) - The ability to use the same Secret between all of your Splunk servers so you can rsync/copy encrypted passwords between servers. Useful if doing DR servers with copy of conf files.
+[Use same Splunk Secret between server](https://hurricanelabs.com/splunk-tutorials/update-splunk-secret-without-breaking-your-production-environment/) - The ability to use the same Secret between all of your Splunk servers so you can rsync/copy encrypted passwords between servers. Useful if doing DR servers with copy of conf files.
 
 # External
 
-## Automation Tools 
+## Automation Tools
 
 [Ansible](https://github.com/splunk/splunk-ansible) - The official Splunk repository containing Ansible playbooks for configuring and managing Splunk Enterprise and Universal Forwarder deployments. This repository contains plays that target all Splunk Enterprise roles and deployment topologies that work on any Linux-based platform.
 
