@@ -7,6 +7,8 @@ Collection of useful tools/apps either written by me or others
 
 [Use same Splunk Secret between server](https://hurricanelabs.com/splunk-tutorials/update-splunk-secret-without-breaking-your-production-environment/) - The ability to use the same Secret between all of your Splunk servers so you can rsync/copy encrypted passwords between servers. Useful if doing DR servers with copy of conf files.
 
+[Diagram Stencils](https://github.com/johnciavarella/splunk_drawio_library) - Visio stencils and Draw.io libraries for diagraming Splunk
+
 ## Splunk Searches and Dashboards
 [Useful list of Splunk Searches](https://github.com/johnciavarella/splunk-searches) - A collection of useful Splunk searches. Includes REST and internal introspection searches
 
